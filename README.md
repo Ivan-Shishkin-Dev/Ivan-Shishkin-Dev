@@ -13,5 +13,5 @@ Check out some of the projects I am working on below!
 
 When I'm not coding, I'm working, preparing for student leadership roles, hanging out with friends, or at the gym!
 
-**Portfolio**: [your-portfolio-url]
-**LinkedIn**: [your-linkedin]
+**Portfolio**: https://ivan-shishkin-dev.github.io/
+**LinkedIn**: https://www.linkedin.com/in/ivan-shishkin-dev
