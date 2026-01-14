@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 
 CS student at UC Irvine building practical skills beyond the classroom. Currently focused on developing a wide understanding of the field of Software Development.
 
