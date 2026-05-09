@@ -4,5 +4,5 @@ CS student at UC Irvine building practical skills beyond the classroom. Currentl
 
 When I'm not coding, I'm working, preparing for student leadership roles, hanging out with friends, or at the gym!
 
-**Portfolio**: IvanShishkin.com  
+**Portfolio**: https://www.ivanshishkin.com/   
 **LinkedIn**: https://www.linkedin.com/in/ivan-shishkin-dev
