@@ -1,8 +1,17 @@
 ![Header](./github-header-banner.png)
 
-CS student at UC Irvine. Currently focused on developing a wide understanding of the ever growing field of technology.
+<h1 align="center">Hi, I'm Ivan 👋</h1>
 
-When I'm not coding, I'm working, preparing for student leadership roles, hanging out with friends, or at the gym!
+<p align="center">
+  CS student at UC Irvine, building a broad understanding of the ever-evolving tech landscape.
+</p>
 
-**Portfolio**: https://www.ivanshishkin.com/   
-**LinkedIn**: https://www.linkedin.com/in/ivan-shishkin-dev
+<p align="center">
+  When I'm not coding, you'll find me working, preparing for student leadership roles,
+  hanging out with friends, or at the gym.
+</p>
+
+<p align="center">
+  <a href="https://www.ivanshishkin.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ivan-shishkin-dev">LinkedIn</a>
+</p>
